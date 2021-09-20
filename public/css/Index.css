@@ -3,6 +3,28 @@
   --black: #354046;
 }
 
+.PaymentButton--rzpTheme.svelte-ekc7fv .PaymentButton-contents.svelte-ekc7fv {
+  padding-left: 60px;
+  background: var(--blue) !important;
+}
+.PaymentButton--rzpTheme.svelte-ekc7fv.svelte-ekc7fv::before {
+  content: '';
+  position: absolute;
+  left: -6px;
+  top: 0;
+  width: 46px;
+  background: var(--blue) !important;
+  height: 100%;
+  /* background: #1e40a0; */
+  border-radius: 2px 0 0 2px;
+  transform: skew(
+-15deg,0);
+}
+.PaymentButton--rzp-dark-standard.svelte-ekc7fv.svelte-ekc7fv {
+  background: var(--blue) !important;
+  border-color: #072654;
+}
+
 * {
   font-family: "Roboto", sans-serif;
   margin: 0;

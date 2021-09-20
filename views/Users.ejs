@@ -98,9 +98,9 @@
         <td><%= eachUser.vaccinated %></td>
         <td><%= eachUser.msg %></td>
         <td>
-          <a href="mailto:" + <%="eachUser.email" %>
-            ><button class="button">E-mail</button></a
-          >
+          <a href="mailto:<%=eachUser.email%>">
+            <button class="button">E-Mail</button>
+          </a>
         </td>
       </tr>
       <% }) %>
