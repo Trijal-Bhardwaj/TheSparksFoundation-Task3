@@ -3,4 +3,4 @@ My Task 3 Submission For The Sparks Foundation Web Development &amp; Designing I
 
 # CoviCure Website
 
-## [Site is Live At](https://covicure-app.herokuapp.com/) : <br/> https://covicure-app.herokuapp.com/
+## [Site is Live At](https://covicure.up.railway.app/) : <br/> https://covicure.up.railway.app/
